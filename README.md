@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> С frontend направлением я связан около года, за это время успел поработать с большим количеством технологий и написать несколько полноценных проектов, используя разные подходы к архитектуре и инструменты разработки. Для всех проектов самостоятельно писал серверную часть в связке с базой данных. Мне нравится то, чем я занимаюсь, и я не хочу останавливаться на достигнутом)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-artemSPN-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artemSPN) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:leskin-artem@mail.ru)
 
